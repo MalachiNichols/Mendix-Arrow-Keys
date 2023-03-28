@@ -1,5 +1,5 @@
 # Mendix-Arrow-Keys
-Short script to enable arrow key movement on mendix timesheets *ONLY WORKS ON MENDIX TIMESHEETS*
+Short script to enable arrow key movement on mendix timesheets (*ONLY WORKS ON MENDIX TIMESHEETS*)
 
 Tested on firefox, chrome and edge
 
